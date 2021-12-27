@@ -18,7 +18,10 @@ CS205 C/C++ Programming `2021F` &nbsp;&nbsp;&nbsp; Instructor [@ Prof. Shiqi Yu]
 
 The projects stored in this repo are graded as below:
 
-| Project | 1           | 2                                                              | 3         | 4             | 5     |
-| :-----: | :---------- | :-----------------------------------------------------------   | :-------  | :------------ | :---- |
-|  Grade  | 98          | 97                                                             | 97        | 98            | N/A   |
-| Commit  | Great work! | OpenMP和多线程能否加速要看任务的粒度，粗粒度有利于加速，细粒度甚至会减速。 | Awesome!  | Great work!﻿  |       |
+| Project | Grade | Comments |
+| :-----: | :---: | :------- |
+| 1       | 98    | Great work! |
+| 2       | 97    | OpenMP和多线程能否加速要看任务的粒度，粗粒度有利于加速，细粒度甚至会减速。 |
+| 3       | 97    | Awesome! |
+| 4       | 98    | Great work! |
+| 5       | N/A   | - |
