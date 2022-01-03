@@ -1,7 +1,7 @@
 # SUSTech-CS205
 CS205 C/C++ Programming `2021F` &nbsp;&nbsp;&nbsp; Instructor [@ Prof. Shiqi Yu](https://github.com/ShiqiYu)
 
-[![GitHub license](https://img.shields.io/github/license/HeZean/SUSTech-CS205)](https://github.com/HeZean/SUSTech-CS205/blob/master/LICENSE)  ![GitHub last commit](https://img.shields.io/github/last-commit/HeZean/SUSTech-CS205)
+[![GitHub license](https://img.shields.io/github/license/HeZean/SUSTech-CS205)](https://github.com/HeZean/SUSTech-CS205/blob/master/LICENSE)  ![GitHub last commit](https://img.shields.io/github/last-commit/HeZean/SUSTech-CS205)  ![GitHub release (latest by date)](https://img.shields.io/github/downloads/hezean/sustech-cs205/v1.0.0/total)
 
 #### Grade Component
 - Quiz: 5% (the best N-1 scores)
